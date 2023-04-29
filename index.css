@@ -1,0 +1,50 @@
+.container{
+    
+    margin-top: 50px;
+    padding-left: 280px;
+
+
+   
+}
+body{
+    
+    background-color: rgb(184, 184, 232);
+}
+
+h1{
+    margin-bottom:40px;
+    margin-left: 30px;
+}
+#myItem{
+    font-size: 20px;
+    font-weight: 400;
+}
+#myInput{
+    border-radius: 10cm;
+    height: 1.5cm;
+    width: 8cm;
+    text-align: center;
+    padding-bottom:10px ;
+}
+
+#btn-secondary{
+    border-radius: 200px;
+    height: 20cm;
+    
+
+}
+
+button{
+    padding: 5px;
+    margin  : 9px;
+    
+    color: whitesmoke;
+    border-radius: 12px;
+    background-color: rgb(76, 192, 115);
+    
+}
+p{
+    text-align: center;
+    
+   
+}
